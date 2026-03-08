@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22794fc8628b4ed4b9e1b72191a31f2d, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: Assembly-CSharp::Handmade.ObjectSO
+  id: 1
+  ObjectId: Sword
+  itemImage: {fileID: 2800000, guid: 85a9ffc6c279c8f44993402b5640b1a0, type: 3}
+  stackSize: 1
+  InGroundPrefab: {fileID: 8501221382999343371, guid: 516a6a6650a8d824dbdc0624f244ef1b, type: 3}
+  InHandPrefab: {fileID: 796439755640341865, guid: dace75e6aadeda848b62a9fcc2410220, type: 3}
+  Deployable: 0
+  Holdable: 1

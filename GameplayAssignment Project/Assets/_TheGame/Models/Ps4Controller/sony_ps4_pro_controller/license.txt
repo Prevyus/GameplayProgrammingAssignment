@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sony PS4 Pro Controller
+* source:	https://sketchfab.com/3d-models/sony-ps4-pro-controller-324f690f922d49bda60752085c9902bb
+* author:	Ellis Rogers-Byrne (https://sketchfab.com/ellisrb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sony PS4 Pro Controller" (https://sketchfab.com/3d-models/sony-ps4-pro-controller-324f690f922d49bda60752085c9902bb) by Ellis Rogers-Byrne (https://sketchfab.com/ellisrb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

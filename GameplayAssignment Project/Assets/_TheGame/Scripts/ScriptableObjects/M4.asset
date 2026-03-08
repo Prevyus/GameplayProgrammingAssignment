@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22794fc8628b4ed4b9e1b72191a31f2d, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: Assembly-CSharp::Handmade.Object
+  id: 3
+  ObjectId: M4
+  itemImage: {fileID: 2800000, guid: f8d30390274d2b4449da0e46654316af, type: 3}
+  stackSize: 1
+  InGroundPrefab: {fileID: 6527570925613892837, guid: 63a7281d21474234ea1b00b56ae3df19, type: 3}
+  InHandPrefab: {fileID: 42532084854738990, guid: 0886742d25caf6041b00ed5d5fd6f819, type: 3}
+  Deployable: 0
+  Holdable: 1
